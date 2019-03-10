@@ -15,7 +15,7 @@ switch ($sorting){
     $sorting = 'price DESC';
     $sort_name = 'От дорогих к дешевым';
     break;
-    
+    // commit changes
      case 'popular';
     $sorting = 'price DESC';
     $sort_name = 'Популярное';
